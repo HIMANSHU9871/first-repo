@@ -1,3 +1,3 @@
-# this is my first ever repo on github
+# This is my first ever repo on github!
 
-# first step in open source world
+# First step in open source world!
